@@ -1,0 +1,8 @@
+{
+  "name": "CineDrama AI - Drama Video Generator",
+  "description": "AI video generator untuk produksi serial drama profesional dengan penentuan karakter & suara, ruangan/latar belakang, naskah dialog cerdas, dan animasi foto ke video menggunakan Veo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
